@@ -1,2 +1,2 @@
 test2
-branch test2로 변경됨
+local main

@@ -1,2 +1,2 @@
 test1
-branch- test2에서 변경했습니다.
+local main

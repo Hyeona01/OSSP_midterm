@@ -1,2 +1,2 @@
 test2
-반갑습니다
+branch test2로 변경됨
